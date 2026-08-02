@@ -7,7 +7,7 @@ title: Informativa privacy
 
 *Ultimo aggiornamento: 01/08/2026*
 
-Questa informativa descrive come vengono trattati i dati personali che raccolgo attraverso la pagina di iscrizione a `pietromaggi.dev`, ai sensi degli articoli 13 e 14 del Regolamento (UE) 2016/679 (GDPR).
+Questa informativa descrive come vengono trattati i dati personali che raccolgo attraverso la pagina di iscrizione a `[page.pietromaggi.dev](https://pages.pietromaggi.dev)`, ai sensi degli articoli 13 e 14 del Regolamento (UE) 2016/679 (GDPR).
 
 ---
 
